@@ -43,7 +43,3 @@
 - [模式](Language_Reference/Patterns.md)
 - [通用形参和实参](Language_Reference/Generic_Parameters_and_Arguments.md)
 - [语法概述](Language_Reference/Summary_of_the_Grammar.md)
-
-### 协议
-
-本文档遵守[署名-非商业性使用-禁止演绎 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)协议。
