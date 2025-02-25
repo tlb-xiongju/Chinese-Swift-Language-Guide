@@ -1,13 +1,9 @@
-THE SEIFT PROGRAMMING LANGUAGE SWIFT 5.1
-
-#### Wanna join me? fork, translate and pull a request~
-
-### 欢迎使用Swift
+### 欢迎使用
 - [关于](Welcome_to_Swift/About_Swift.md)
 - [版本兼容](Welcome_to_Swift/Version_Compatibility.md)
 - [快速开始](Welcome_to_Swift/A_Swift_Tour.md)
 
-### Swift语言指南
+### 语言指南
 - [基础](Language_Guide/The_Basic.md)
 - [基本操作符](Language_Guide/Basic_Operators.md)
 - [字符串与字符](Language_Guide/Strings_and_Characters.md)
@@ -41,6 +37,7 @@ THE SEIFT PROGRAMMING LANGUAGE SWIFT 5.1
 - [词汇结构](Language_Reference/Lexical_Structure.md)
 - [类型](Language_Reference/Types.md)
 - [表达式](Language_Reference/Expressions.md)
+- [语句](Language_Reference/Statements.md)
 - [声明](Language_Reference/Declarations.md)
 - [特性](Language_Reference/Attributes.md)
 - [模式](Language_Reference/Patterns.md)
