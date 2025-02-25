@@ -650,4 +650,4 @@ extension Container {
 
 这些约束放在一起，意思是：传递给`indices`参数的值是一个整形序列。
 
-[< 协议](Protocols.md) || [不透明类型 >](Opaque_Types.md)
+[< 协议](Protocols.md) || [不透明类型和装箱协议类型 >](Opaque_and_Boxed_Protocol_Types.md)

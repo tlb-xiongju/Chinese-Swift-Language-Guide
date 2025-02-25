@@ -524,4 +524,4 @@ paragraph = nil
 
 更多关于捕获列表，参见[捕获列表](../Language_Reference/Expressions.md#捕获列表)
 
-[< 透明类型](Opaque_Types.md) || [内存安全 >](Memory_Safety.md)
+[< 不透明类型和装箱协议类型](Opaque_and_Boxed_Protocol_Types.md) || [内存安全 >](Memory_Safety.md)

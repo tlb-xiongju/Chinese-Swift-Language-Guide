@@ -21,12 +21,14 @@
 - [反初始化](Language_Guide/Deinitialization.md)
 - [可选链](Language_Guide/Optional_Chaining.md)
 - [错误处理](Language_Guide/Error_Handling.md)
+- [并发](Language_Guide/Concurrency.md)
+- [宏](Language_Guide/Macros.md)
 - [类型转换](Language_Guide/Type_Casting.md)
 - [嵌套类型](Language_Guide/Nested_Types.md)
 - [扩展](Language_Guide/Extensions.md)
 - [协议](Language_Guide/Protocols.md)
 - [泛型](Language_Guide/Generics.md)
-- [不透明类型](Language_Guide/Opaque_Types.md)
+- [不透明类型和装箱协议类型](Language_Guide/Opaque_and_Boxed_Protocol_Types.md)
 - [自动引用计数](Language_Guide/Automatic_Reference_Counting.md)
 - [内存安全](Language_Guide/Memory_Safety.md)
 - [访问控制](Language_Guide/Access_Control.md)
@@ -43,3 +45,6 @@
 - [模式](Language_Reference/Patterns.md)
 - [通用形参和实参](Language_Reference/Generic_Parameters_and_Arguments.md)
 - [语法概述](Language_Reference/Summary_of_the_Grammar.md)
+
+### 修订历史
+- [文档修订历史](Revision_History/Document_Revision_History.md)
