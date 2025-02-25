@@ -1,7 +1,7 @@
 ### 欢迎使用
-- [关于](Welcome_to_Swift/About_Swift.md)
-- [版本兼容](Welcome_to_Swift/Version_Compatibility.md)
-- [快速开始](Welcome_to_Swift/A_Swift_Tour.md)
+- [关于](Welcome_to_Swift/1.About_Swift.md)
+- [版本兼容](Welcome_to_Swift/2.Version_Compatibility.md)
+- [快速开始](Welcome_to_Swift/3.A_Swift_Tour.md)
 
 ### 语言指南
 - [基础](Language_Guide/The_Basic.md)

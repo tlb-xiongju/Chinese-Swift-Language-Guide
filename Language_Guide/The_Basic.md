@@ -647,4 +647,4 @@ precondition(index > 0, "Index must be greater than zero.")
 > 注意：如果你在不执行检查模式（`-Ounchecked`）下编译，先决条件就不会被检查。编译器会默认所有的先决条件都是`true`，并且会根据情况优化代码。但是，无论优化与否，`fatalError(_:file:line:)`始终暂停执行。
 > 你可以在原型设计和早期开发期间使用`fatalError(_:file:line:)`函数，通过编写`fatalError("Unimplemented")`作为尚未实现函数的桩(`stub`)（概念参见[Method stub](https://en.wikipedia.org/wiki/Method_stub)）。因为致命错误是不会像断言或先决条件一样被优化掉，你可以确保当桩被执行时，程序会暂停运行。
 
-[< 快速开始](../Welcome_to_Swift/A_Swift_Tour.md) || [基本操作符 >](Basic_Operators.md)
+[< 快速开始](../Welcome_to_Swift/3.A_Swift_Tour.md) || [基本操作符 >](Basic_Operators.md)
